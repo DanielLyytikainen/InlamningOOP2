@@ -1,0 +1,7 @@
+Skapa tester --klar
+LocalDate -- klar
+Jämförelse mellan senast köpta medlemskap och nuvarande datum --klar
+Skapa användarinputs -- klar
+Jämförelse mellan användarinput och medlemmar -- klar
+Skapa en Filewriter -- klar
+Skapa så att ifall användarinput är korrekt så ska det skrivas till en fil med information om medlemmen och träningsdagens datum. -- klar
